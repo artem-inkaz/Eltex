@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_2_text">Вход</string>
+    <string name="sign_in_2_login">Логин</string>
+    <string name="sign_in_2_password">Пароль</string>
+    <string name="sign_in_2_forgot_password"><u>Забыли пароль?</u></string>
+    <string name="sign_in_2_sign_in">Войти</string>
+    <string name="roleid">ROLEID</string>
+    <string name="username">USERNAME</string>
+    <string name="email">EMAIL</string>
+    <string name="permissions">PERMISSIONS</string>
+    <string name="error_auth">\"Какая то ошибка при авторизации! \"</string>
+    <string name="error_data">Какая то ошибка получения данных!</string>
+    <string name="empty_auth">\"Нужно заполнить все поля! \"</string>
+</resources>
